@@ -405,14 +405,8 @@
                 padding: 3rem 1rem;
             }
             .post-image {
-                width: 100%;
-                max-width: 300px; 
+                width: 100%; 
                 height: auto;
-                border-radius: 15px;
-                margin-bottom: 1rem;
-                display: block;
-                margin-left: auto;
-                margin-right: auto;
             }
         }
 
